@@ -1,0 +1,25 @@
+.teams-container{
+    background-color: lightslategray;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    text-align: center;
+    padding: 20px;
+}
+.teams-container img{
+    width: 200px;
+}
+.teams-container button{
+    height: 30px;
+    background-color: rgb(24, 24, 72);
+    border: none;
+    border-radius: 3px;
+    color: white;
+}
+.link{
+    color: white;
+}
